@@ -1,0 +1,5 @@
+*.os
+.sconsign.dblite
+joemama/bin/x11
+joemama/bin/win64
+joemama/bin/osx
